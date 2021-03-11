@@ -2,10 +2,6 @@
 
 # @author     : Jonathan Ingram
 # Created     : 11/24/2020
-# Description : This project/demonstration was made for the interviewing purposes
-# by Jonathan Ingram for Battelle to showcase an understanding of
-# object oriented programming
-# for demonstration purposes I kept everything to one file
 
 class Vehicle ():
 
